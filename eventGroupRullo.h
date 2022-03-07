@@ -1,0 +1,3 @@
+#define  EV_OBJECT_DETECTED 1<<0
+
+
